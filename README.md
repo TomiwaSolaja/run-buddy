@@ -12,3 +12,5 @@ https://tomiwasolaja.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Tomi Solaja
+
+### ©️2019 Run Buddy, Inc 
